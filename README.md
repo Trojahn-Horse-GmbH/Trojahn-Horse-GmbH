@@ -1,4 +1,4 @@
-# Who_are_we
+# Trojahn-Horse-GmbH
 
 ## Visual Planning
 Together with you, we develop planning solutions based on the software VISUAL PLANNING. We see ourselves as consultants for the analysis of the planning and disposition processes. We have many years of cross-sector experience in the area of planning solutions, interfaces to ERP systems as well as in the connection of planning to your controlling solution.
